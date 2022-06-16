@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A motion designer, and front-end developer.</h3>
-
+### Hi there 👋, i'm Ricardo!
+#### A motion designer, and front-end developer.
 ![A motion designer, and front-end developer.](https://i.ibb.co/8cwrLVM/git-banner.png)
 
 I've been creating motion graphics since 2017, and started learning web design in 2022. I always give my best at everything that I like to do. Simplicity, flow and user-friendly are the most important things for delivering a good job for your customer.
