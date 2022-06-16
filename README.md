@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Ricardo!
+# Hi there 👋, i'm Ricardo!
 #### A motion designer, and front-end developer.
 ![A motion designer, and front-end developer.](https://i.ibb.co/8cwrLVM/git-banner.png)
 
