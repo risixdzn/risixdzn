@@ -1,6 +1,5 @@
 <br>
 <p align = center ><img src="https://imgur.com/PJsi7ZM.png" width="450px"> </p>
-<br>
 
 <div>
 
