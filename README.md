@@ -23,10 +23,11 @@
     <img src = "https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=Python&logoColor=white" alt = "java" />
   
 - <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/sass-1C1E24?style=for-the-badge&logo=sass&logoColor=#D04A37" alt = "expo" />
+  <img src = "https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=next.js&logoColor=%fff" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/sass-e44b8d?style=for-the-badge&logo=sass&logoColor=fff" alt = "expo" />
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  <img src = "https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt = "java" />
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
