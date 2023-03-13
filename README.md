@@ -2,12 +2,6 @@
 <p align = center ><img src="https://imgur.com/mxvx48I.png" > 
 </p>
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=risixdzn&show_icons=true&theme=midnight-purple&bg_color=0c041c&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risixdzn&layout=compact&show_icons=true&theme=midnight-purple&bg_color=0c041c&hide_border=true)
-![Ricardo's commit streak ](https://github-readme-activity-graph.cyclic.app/graph?username=risixdzn&bg_color=0c041c&hide_border=true&line=883cd4&area=true&area_color=301444&color=883cd4&point=883cd4)
-
-
-
 <div align='center'><h1 >Technologies</h1>
 <img src='https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145'>
 <img src='https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465'>
@@ -21,6 +15,16 @@
 <img src='https://camo.githubusercontent.com/050c2af23a40f2dfdd32a8ec4761ad4c5859a3d1c4c843a1be853865669b8ec8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f6265253230696c6c7573747261746f722d2532334646394130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265253230696c6c7573747261746f72266c6f676f436f6c6f723d7768697465'>
 <img src='https://camo.githubusercontent.com/9a8ccd8ae319ddac9934db226e7834d7e1c61a31076e7d7c04ecb5bf352967aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465'>
 </div>
+
+<br></br>
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=risixdzn&show_icons=true&theme=midnight-purple&bg_color=0c041c&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risixdzn&layout=compact&show_icons=true&theme=midnight-purple&bg_color=0c041c&hide_border=true)
+![Ricardo's commit streak ](https://github-readme-activity-graph.cyclic.app/graph?username=risixdzn&bg_color=0c041c&hide_border=true&line=883cd4&area=true&area_color=301444&color=883cd4&point=883cd4)
+
+
+
+
 
                    
                    
