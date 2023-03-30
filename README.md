@@ -3,10 +3,10 @@
         <img src='https://s10.gifyu.com/images/inforeadme.gif' width='800'>
     </picture>
     <picture>
-        <img src='./stack/Stack Card.png'  width='400'>
+        <img src='https://i.imgur.com/8BEgH3Y.png'  width='400'>
     </picture>
     <picture>
-        <img src='./stack/Learning Card.png' width='400'>
+        <img src='https://i.imgur.com/pniZH6h.png' width='400'>
     </picture>
 </div>
 
