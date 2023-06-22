@@ -10,14 +10,3 @@
     </picture>
     <img src='https://streak-stats.demolab.com?user=risixdzn&hide_border=true&background=0c0c0c&fire=883CFC&ring=883CFC&currStreakNum=EBEBEB&currStreakLabel=883CFC&sideNums=883CFC&sideLabels=BCBCBC&dates=777777&stroke=883CFC'>
 </div>
-
-
-
-
-
-
-
-
-
-
-
