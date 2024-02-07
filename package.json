@@ -1,0 +1,27 @@
+{
+    "name": "svgreadme",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@resvg/resvg-js": "^2.6.0",
+        "@vercel/og": "^0.6.1",
+        "canvas": "^2.11.2",
+        "next": "14.0.4",
+        "react": "^18",
+        "react-dom": "^18",
+        "satori": "^0.10.11",
+        "zod": "^3.22.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "typescript": "^5"
+    }
+}
