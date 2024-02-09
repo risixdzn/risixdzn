@@ -1,1 +1,1 @@
-<img src="https://ricardo-readme.vercel.app" width="100%" height="383" align="left">
+<img src="https://ricardo-readme.vercel.app/api/render?section=readme" width="100%" height="383" align="left">
