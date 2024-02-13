@@ -1,18 +1,12 @@
-import Image from "next/image";
-import Link from "next/link";
+import "./globals.css";
+import { join } from "@/lib/svg";
+import { html, styles } from "@/components/Readme";
 
 export default function Home() {
     return (
-        <main
-            style={{
-                width: "100%",
-                height: "100vh",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-            }}
-        >
-            <Link href='/api/render?section=readme'>Go to /api/render?section=readme</Link>
-        </main>
+        <div
+            style={{ width: "100%", display: "flex", justifyContent: "center" }}
+            dangerouslySetInnerHTML={{ __html: join(styles, html) }}
+        ></div>
     );
 }

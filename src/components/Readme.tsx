@@ -1,9 +1,9 @@
 import { shared_styles } from "@/lib/shared";
 import { svg } from "@/lib/svg";
 import { logo } from "../../public/Logo";
+import { MapPin } from "../../public/MapPin";
 
-export const Readme = () => {
-    const styles = `
+export const styles = `
         ${shared_styles}
 
         .container{
@@ -13,10 +13,10 @@ export const Readme = () => {
             flex-direction: column;          
             background-color: hsl(var(--background));
             padding: 24pt 68pt;
-            border-inline: 1px solid hsl(var(--border));
             justify-content: space-between;
             border-radius: var(--radius);
             gap: 40pt;
+            max-width: 65rem;
         } 
 
         header{
@@ -87,6 +87,12 @@ export const Readme = () => {
             background-color: hsl(var(--foreground))
         }
 
+        .location{
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
         .squarelogo{
             display:flex;
             align-items: center;
@@ -147,8 +153,15 @@ export const Readme = () => {
             height: 1px;
             background-color: hsl(var(--foreground));
         }
+
+        @media only screen and (max-width: 768px) {
+            .container{
+                background-color:red;
+            }
+        }
     `;
-    const html = `
+
+export const html = `
         <div class='container'> 
             <header>
                 <div class='logolinks'>
@@ -181,6 +194,11 @@ export const Readme = () => {
                         <h2 class='role text-2xl font-normal tracking-tight'>
                             a Brazilian <span>Front-end Software Engineer.</span>
                         </h2>
+                        <span class='location'>${MapPin({
+                            stroke: "#000000",
+                            width: 20,
+                            height: 20,
+                        })} São Paulo, Brazil.</span>
                     </div>
                     <div class='squarelogo'>                          
                         ${logo({
@@ -203,5 +221,6 @@ export const Readme = () => {
         </div>       
     `;
 
+export const Readme = () => {
     return svg(styles, html, { height: "500" });
 };

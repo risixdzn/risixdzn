@@ -13,3 +13,10 @@ export const svg = (styles: string, html: string, attributes: Attributes) => {
           </foreignObject>
       </svg>`;
 };
+
+export const join = (styles: string, html: string) => {
+    return `
+        <style>${styles}</style>
+        ${html}
+    `;
+};
