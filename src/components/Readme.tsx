@@ -156,7 +156,43 @@ export const styles = `
 
         @media only screen and (max-width: 768px) {
             .container{
-                background-color:red;
+                padding: 24pt 24pt;
+            }
+
+            .ricardoamorim{
+                font-size: 20pt;
+            }
+
+            .mediumtext{
+                font-size: 1.125rem !important;
+                line-height: 1.75rem !important;
+            }
+
+            .readmemd{
+                display: none
+            }
+
+            .squarelogo{
+                height: 60pt;
+                width: 60pt;            
+            }
+    
+            .squarelogo > #logo{
+                width: 29pt;
+                height: 24pt;
+                filter: invert(100%);
+            }
+
+            #button{
+                font-size: 10pt;
+            }
+
+            #buttonsecondary{
+                font-size: 10pt;
+            }
+
+            .location{
+                font-size: 0.875rem;
             }
         }
     `;
@@ -184,14 +220,14 @@ export const html = `
                         </ul>
                     </nav>
                 </div>
-                <span class='text-sm'>readme.md</span>
+                <span class='text-sm readmemd'>readme.md</span>
             </header>
             <section class='hero'>
                 <div class='presentation'>
                     <div class='wrapper'>
-                        <span class='text-xl tracking-tight'>Hi! I'm</span>
+                        <span class='text-xl tracking-tight mediumtext'>Hi! I'm</span>
                         <h1 class='ricardoamorim font-semibold tracking-tighter'>Ricardo Amorim</h1>
-                        <h2 class='role text-2xl font-normal tracking-tight'>
+                        <h2 class='role text-2xl font-normal tracking-tight mediumtext'>
                             a Brazilian <span>Front-end Software Engineer.</span>
                         </h2>
                         <span class='location'>${MapPin({
@@ -203,8 +239,8 @@ export const html = `
                     <div class='squarelogo'>                          
                         ${logo({
                             fill: "#ffffff",
-                            width: "38.657",
-                            height: "31.992",
+                            width: "28.992",
+                            height: "23.994",
                         })}                 
                     </div>
                 </div> 
