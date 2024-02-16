@@ -1,4 +1,3 @@
-import "./globals.css";
 import { join } from "@/lib/svg";
 import { html, styles } from "@/components/Readme";
 
