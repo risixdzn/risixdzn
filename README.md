@@ -1,3 +1,3 @@
-<a href='https://ricardo-readme.vercel.app'>
-    <img src="https://ricardo-readme.vercel.app/api/render?section=readme" width="100%" height="418" align="left">
+<a href='https://readme.ricardo.gg'>
+    <img src="https://readme.ricardo.gg/api/render?section=readme" width="100%" height="418" align="left">
 </a>
