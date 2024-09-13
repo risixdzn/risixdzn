@@ -212,10 +212,10 @@ export const html = `
                                 <a href='https://ricardo.gg' target='_blank'>Portfolio</a>
                             </li>
                             <li>
-                                <a href='https://ricardo.gg' target='_blank'>Linkedin</a>
+                                <a href='https://www.linkedin.com/in/ricardodotgg/' target='_blank'>Linkedin</a>
                             </li>
                             <li>
-                                <a href='https://ricardo.gg' target='_blank'>Contact</a>
+                                <a href='https://www.linkedin.com/in/ricardodotgg/' target='_blank'>Contact</a>
                             </li>
                         </ul>
                     </nav>
@@ -228,7 +228,7 @@ export const html = `
                         <span class='text-xl tracking-tight mediumtext'>Hi! I'm</span>
                         <h1 class='ricardoamorim font-semibold tracking-tighter'>Ricardo Amorim</h1>
                         <h2 class='role text-2xl font-normal tracking-tight mediumtext'>
-                            a Brazilian <span>Front-end Software Engineer.</span>
+                            a Brazilian <span>Web Developer</span>
                         </h2>
                         <span class='location'>${MapPin({
                             stroke: "#000000",
@@ -248,7 +248,7 @@ export const html = `
                     <a href='https://ricardo.gg' target='_blank'>
                         <button id='button' class='tracking-tight'>Check my work</button>
                     </a>                    
-                    <a href='https://ricardo.gg' target='_blank'>
+                    <a href='https://www.linkedin.com/in/ricardodotgg/' target='_blank'>
                         <button id='buttonsecondary' class='tracking-tight'>Contact me</button>
                     </a>
                 </div>
